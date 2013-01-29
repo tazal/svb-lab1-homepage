@@ -31,3 +31,15 @@ body {
   opacity:.8;
 }
 
+.tumble {
+  position:relative;
+  left:20px;
+}
+.gitcat {
+  position:relative;
+  left:-30px;
+}
+.musicnote {
+  position:relative;
+  left:-20px;
+}
