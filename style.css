@@ -18,5 +18,13 @@ body {
 #images {
   text-align:center;
   position:relative;
-  top:100px;
+  top:50px;
+}
+
+#about {
+  position:relative;
+  top:50px;
+  font-family:"Droid Sans", sans-serif;
+  font-size:2em;
+  text-align:center;
 }
